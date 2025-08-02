@@ -41,3 +41,11 @@ Ainda está em fase de desenvolvimento.
 Ideia de projeto: Alura<br/>
 Desenvolvedor: Thaynna Rodrigues
 
+<<<<<<< HEAD
+=======
+Desenvolvedor: Thaynna Rodrigues
+
+---
+Link API: https://www.omdbapi.com/
+
+>>>>>>> 52fef51 (Variável de ambientes, cors configuration, Fornecendo dados para FrontEnd)

@@ -1,4 +1,4 @@
-package br.com.thaynna.serie.Model;
+package br.com.thaynna.serie.model;
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
